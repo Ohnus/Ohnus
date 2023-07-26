@@ -2,10 +2,6 @@
 <h3 align="center">Let's take a look at what I've been up to</h3>
 <h3 align="center">and</h3>
 <h3 align="center">what we can do going forward!</h3>
-<br>
-<h4 align="center">You can find a more organized summary at the URL below.</h4>
-<h4 align="center">🔗 http://Ohnus.github.io/</h4>
-
 
 <br><br>
 <h3 align="center">🧑‍💻Tech Stack🧑‍💻</h3>
@@ -25,7 +21,15 @@
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
-<br><br><br>
+
+<br><br>
+<h4 align="center">You can find a more organized summary at the URL below.</h4>
+<h4 align="center">🔗 http://Ohnus.github.io/</h4>
+<br>
+<h3 align="center">📭Contact📬</h3>
+<h4 align="center">✉️ sh525293@gmail.com</h4>
+
+<br><br>
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohnus&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
