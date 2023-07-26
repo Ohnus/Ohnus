@@ -37,7 +37,7 @@
 <h4 align="center">🔗https://github.com/Ohnus/Semi_Project_HamoYeah</h4>
 
 <br><br>
-<h4 align="center">You can find a more organized summary at the URL below.</h4>
+<h4 align="center">You can find more organized information at the URL below.</h4>
 <h4 align="center">🔗 http://Ohnus.github.io/</h4>
 <br>
 <h3 align="center">📭Contact📬</h3>
