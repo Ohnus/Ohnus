@@ -1,10 +1,10 @@
 <h3 align="center">Hi there 👋</h3>
-#
+=======================================
 <br>
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 <br>
-#
+=======================================
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohnus&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
