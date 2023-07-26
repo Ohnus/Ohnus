@@ -1,4 +1,6 @@
-<h3 align="center">Hi, it's sunho😎</h3>
+<h3 align="center">Hi, I'm sunho,</h3>
+<h3 align="center">and this is my dlog😎</h3>
+<br>
 <h3 align="center">Let's take a look at what I've been up to</h3>
 <h3 align="center">and</h3>
 <h3 align="center">what we can do going forward!</h3>
