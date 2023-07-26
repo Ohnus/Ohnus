@@ -25,6 +25,12 @@
 </p>
 
 <br><br>
+<h3 align="center">📁Project1: Otzzang</h3>
+<h4 align="center">🔗https://github.com/Ohnus/Final_Project_Otzzang</h4>
+<h3 align="center">📁Project2: HamoYeah</h3>
+<h4 align="center">🔗https://github.com/Ohnus/Semi_Project_HamoYeah</h4>
+
+<br><br>
 <h4 align="center">You can find a more organized summary at the URL below.</h4>
 <h4 align="center">🔗 http://Ohnus.github.io/</h4>
 <br>
