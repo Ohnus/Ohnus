@@ -1,8 +1,13 @@
 <h3 align="center">Hi there 👋</h3>
-<br/>
+<br>
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-<br/>
+<br>
+<div align="center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohnus&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <!--
 **Ohnus/Ohnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohnus&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
