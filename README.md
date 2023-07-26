@@ -43,7 +43,7 @@
 <br>
 <h3 align="center">📭Contact📬</h3>
 <p align="center">
-<a href="mailto:sh525293@gmail.com">✉️ sh525293@gmail.com</a>
+✉️&nbsp;<a href="mailto:sh525293@gmail.com">sh525293@gmail.com</a>
 </p>
 
 <!-- <h4 align="center">✉️ sh525293@gmail.com</h4>
