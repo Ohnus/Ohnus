@@ -35,7 +35,10 @@
 <h4 align="center">🔗 http://Ohnus.github.io/</h4>
 <br>
 <h3 align="center">📭Contact📬</h3>
-<h4 align="center">✉️ sh525293@gmail.com</h4>
+<p align="center">
+<a href="mailto:sh525293@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=sh525293@gmail.com"/></a>
+</p></p>
+<!-- <h4 align="center">✉️ sh525293@gmail.com</h4> -->
 
 <br><br>
 <div align="center">
