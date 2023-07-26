@@ -37,7 +37,8 @@
 <h3 align="center">📭Contact📬</h3>
 <p align="center">
 <a href="mailto:sh525293@gmail.com">✉️ sh525293@gmail.com</a>
-</p></p>
+</p>
+
 <!-- <h4 align="center">✉️ sh525293@gmail.com</h4>
 <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=sh525293@gmail.com"/>
 -->
@@ -47,6 +48,8 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohnus&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+
 
 <!--
 **Ohnus/Ohnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
