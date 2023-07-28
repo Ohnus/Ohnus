@@ -44,10 +44,10 @@
 </p>
 
 <br><br>
-<h3 align="center">📁Project1: Otzzang</h3>
-<h4 align="center">🔗https://github.com/Ohnus/Final_Project_Otzzang</h4>
-<h3 align="center">📁Project2: HamoYeah</h3>
-<h4 align="center">🔗https://github.com/Ohnus/Semi_Project_HamoYeah</h4>
+<h3 align="center"><a href="https://github.com/Ohnus/Final_Project_Otzzang">📁 Project 1: Otzzang</a></h3>
+<!-- <h4 align="center">🔗https://github.com/Ohnus/Final_Project_Otzzang</h4> -->
+<h3 align="center"><a href="https://github.com/Ohnus/Semi_Project_HamoYeah">📁 Project 2: HamoYeah</a></h3>
+<!-- <h4 align="center">🔗https://github.com/Ohnus/Semi_Project_HamoYeah</h4> -->
 
 <br><br>
 <h4 align="center">You can find more organized information about me and each project at the URL below.</h4>
