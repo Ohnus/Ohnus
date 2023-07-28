@@ -9,7 +9,7 @@
 <h4 align="center">what we can do going forward!</h4>
 
 #
-<h3 align="center">🧑‍💻My Skills🧑‍💻</h3>
+<h3 align="center">🧑‍💻 My Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
@@ -34,7 +34,7 @@
 
 </p>
 
-<h3 align="center">📖Learning📖</h3>
+<h3 align="center">📖 Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
