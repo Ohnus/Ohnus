@@ -34,6 +34,15 @@
 
 </p>
 
+<h3 align="center">📖Learning📖</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</p>
+
 <br><br>
 <h3 align="center">📁Project1: Otzzang</h3>
 <h4 align="center">🔗https://github.com/Ohnus/Final_Project_Otzzang</h4>
