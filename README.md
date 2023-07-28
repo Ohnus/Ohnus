@@ -1,14 +1,14 @@
 <div align="center">
 <img src="https://github.com/Ohnus/Ohnus/assets/88930889/4f42444c-4261-4121-af51-a4cbf30574bd" width="20%">
 </div>
-<h3 align="center">Hi, I'm sunho,</h3>
-<h3 align="center">and this is my Dlog😎</h3>
+<h4 align="center">Hi, I'm sunho,</h4>
+<h4 align="center">and this is my Dlog😎</h4>
 <br>
-<h3 align="center">Let's take a look at what I've been up to</h3>
-<h3 align="center">and</h3>
-<h3 align="center">what we can do going forward!</h3>
+<h4 align="center">Let's take a look at what I've been up to</h4>
+<h4 align="center">and</h4>
+<h4 align="center">what we can do going forward!</h4>
 
-<br><br>
+#
 <h3 align="center">🧑‍💻My Skills🧑‍💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -43,13 +43,11 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 
-<br><br>
-<h3 align="center"><a href="https://github.com/Ohnus/Final_Project_Otzzang">📁 Project 1: Otzzang</a></h3>
-<!-- <h4 align="center">🔗https://github.com/Ohnus/Final_Project_Otzzang</h4> -->
-<h3 align="center"><a href="https://github.com/Ohnus/Semi_Project_HamoYeah">📁 Project 2: HamoYeah</a></h3>
-<!-- <h4 align="center">🔗https://github.com/Ohnus/Semi_Project_HamoYeah</h4> -->
+#
+### <h3 align="center">🗂️ Projects</h3>
+#### <div align="center"><a href="https://github.com/Ohnus/Final_Project_Otzzang">📁 Project 1: Otzzang</a> &nbsp;<a href="https://github.com/Ohnus/Semi_Project_HamoYeah">📁 Project 2: HamoYeah</a> &nbsp;</div>
 
-<br><br>
+#
 <h4 align="center">You can find more organized information about me and each project at the URL below.</h4>
 <h4 align="center">(Under construction)</h4>
 <h4 align="center">🔗 http://Ohnus.github.io/</h4>
