@@ -9,7 +9,7 @@
 <h3 align="center">what we can do going forward!</h3>
 
 <br><br>
-<h3 align="center">🧑‍💻Tech Stack🧑‍💻</h3>
+<h3 align="center">🧑‍💻My Skills🧑‍💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
