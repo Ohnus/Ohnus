@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Ohnus/Ohnus/assets/88930889/4f42444c-4261-4121-af51-a4cbf30574bd" width="20%">
+  <img src="https://github.com/Ohnus/Ohnus/assets/88930889/4f42444c-4261-4121-af51-a4cbf30574bd" width="20%">
 </div>
 <h4 align="center">Hi, I'm sunho,</h4>
 <h4 align="center">and this is my Dlog😎</h4>
@@ -45,7 +45,12 @@
 
 #
 ### <h3 align="center">🗂️ Projects</h3>
-#### <div align="center"><a href="https://github.com/Ohnus/Final_Project_Otzzang">📁 Project 1: Otzzang</a> &nbsp;<a href="https://github.com/Ohnus/Semi_Project_HamoYeah">📁 Project 2: HamoYeah</a> &nbsp;</div>
+<div align="center">
+  <h4>
+    <a href="https://github.com/Ohnus/Final_Project_Otzzang">📁Otzzang</a> &nbsp;
+    <a href="https://github.com/Ohnus/Semi_Project_HamoYeah">📁HamoYeah</a> &nbsp;
+  </h4>
+</div>
 
 #
 <h4 align="center">You can find more organized information about me and each project at the URL below.</h4>
