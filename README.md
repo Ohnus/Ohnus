@@ -53,10 +53,10 @@
 </div>
 
 #
-<h4 align="center">You can find more organized information about me and each project at the URL below.</h4>
+<!-- <h4 align="center">You can find more organized information about me and each project at the URL below.</h4>
 <h4 align="center">(Under construction)</h4>
 <h4 align="center">🔗 http://Ohnus.github.io/</h4>
-<br>
+<br> -->
 <h3 align="center">📭Contact📬</h3>
 <p align="center">
 ✉️&nbsp;<a href="mailto:sh525293@gmail.com">sh525293@gmail.com</a>
