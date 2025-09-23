@@ -41,7 +41,6 @@
   <h4>
     <a href="https://github.com/Ohnus/tickle-backend">📁Tickle</a> &nbsp;
     <a href="https://github.com/Ohnus/Final_Project_Otzzang">📁Otzzang</a> &nbsp;
-    <a href="https://github.com/Ohnus/Semi_Project_HamoYeah">📁HamoYeah</a> &nbsp;
   </h4>
 </div>
 
