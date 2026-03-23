@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://github.com/Ohnus/Ohnus/assets/88930889/4f42444c-4261-4121-af51-a4cbf30574bd" width="20%">
 </div>
-<h4 align="center">Hi, I'm sunho,</h4>
+<h4>리빌딩중입니다..</h4>
+<!-- <h4 align="center">Hi, I'm sunho,</h4>
 <h4 align="center">and this is my Dlog😎</h4>
 <br>
 <h4 align="center">Let's take a look at what I've been up to</h4>
 <h4 align="center">and</h4>
-<h4 align="center">what we can do going forward!</h4>
+<h4 align="center">what we can do going forward!</h4> -->
 
 #
 <h3 align="center">🧑‍💻 My Skills</h3>
@@ -39,8 +40,8 @@
 ### <h3 align="center">🗂️ Projects</h3>
 <div align="center">
   <h4>
-    <a href="https://github.com/Ohnus/tickle-backend">📁Tickle</a> &nbsp;
-    <a href="https://github.com/Ohnus/Final_Project_Otzzang">📁Otzzang</a> &nbsp;
+    <!-- <a href="https://github.com/Ohnus/tickle-backend">📁Tickle</a> &nbsp; -->
+    <!-- <a href="https://github.com/Ohnus/Final_Project_Otzzang">📁Otzzang</a> &nbsp; -->
   </h4>
 </div>
 
