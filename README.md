@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Ohnus/Ohnus/assets/88930889/4f42444c-4261-4121-af51-a4cbf30574bd" width="20%">
 </div>
-<h4>리빌딩중입니다..</h4>
+<h4 align="center">리빌딩중입니다..</h4>
 <!-- <h4 align="center">Hi, I'm sunho,</h4>
 <h4 align="center">and this is my Dlog😎</h4>
 <br>
